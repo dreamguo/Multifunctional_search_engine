@@ -54,37 +54,37 @@
 
 1) 初始界面：
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsHS3zLo.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture1.png) 
 
 2) 报错界面
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsZ8Y9kj.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture2.png) 
 
 3) 热度（PageRank）排序界面（以中国为例）
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsgn2jWw.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture3.png) 
 
 4) 时间排序界面（以中国为例）
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsctht00.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture4.png) 
 
 5) 相关度排序界面（以中国为例）
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsULCKqM.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture5.png) 
 
 6) 热度（PageRank）排序界面（以https://news.sina.com.cn/ 为例）
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsrA6b3w.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture6.png) 
 
 7) 时间排序界面（以https://news.sina.com.cn/ 为例）
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsVCGgTl.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture7.png) 
 
 8) 后台界面
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsMaWI7I.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture8.png) 
 
-![img](file:////private/var/folders/ls/bxrm63wj2blgxsr5njnqb0wh0000gn/T/com.kingsoft.wpsoffice.mac/wps-mengqiguo/ksohtml/wpsxFJZE7.jpg) 
+![img](https://github.com/dreamguo/Multifunctional_search_engine/blob/main/image/Picture9.png) 
 
 四、设计亮点（自选应用必填）
 
